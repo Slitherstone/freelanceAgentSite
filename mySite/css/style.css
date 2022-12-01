@@ -1,0 +1,133 @@
+/* xxxxxxxxxxxxxxxxxx---Element---xxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+body{
+    margin:0 0 0  0;
+    
+    text-align: center; 
+    font-family: 'Cagliostro', sans-serif;
+    font-size: 120%;
+}
+
+h1{
+    margin-top: 10px;
+}
+
+p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+}    
+
+hr{
+
+    border-style:dotted none none none;
+    border-width: 10px;
+    border-color: brown;
+    width: 10%;
+    margin-left:45% !important;
+      
+    
+}
+
+
+/* xxxxxxxxxxxxxxxxxxx---Classes--xxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+.bottom-container{
+    background-color: rgb(196, 235, 200);
+}
+
+.coffeeCup{
+    width: 15%;
+    height: 15%;
+    display: inline-block;
+    position: relative;
+    margin-right: 5%;
+    margin-bottom: -90px;
+    
+}
+
+.coffeeCup2{
+    width: 15%;
+    height: 15%;
+    display: inline-block;
+    position: relative;
+    margin-left: 5%;
+    margin-bottom: -90px;
+    
+}
+
+.contactMe{
+    background-color: rgb(196, 235, 200);
+
+}
+
+.profile{
+    margin: 0;
+    background-color: rgb(196, 235, 200);
+    text-align: center;
+    padding-top:20px;
+}
+.profileText{
+    margin-top:0;
+    padding-bottom:15px ;
+}
+
+.skills{
+    margin: 0;
+    background-color: rgb(196, 235, 250);
+}
+
+.tableSkills{
+
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+
+.topcontainer{
+    background-color: rgb(196, 235, 250);
+    position: relative;
+    padding-top:60px;
+}
+
+.design
+{
+    width: 25%;
+    height: 25%;
+
+}
+
+
+
+/* xxxxxxxxxxxxxxxxxx--ID--xxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+#background-video{
+    padding: 15px 0 15px 0;
+    width:50%;
+    position: relative;
+    display: inline-block;
+}
+
+
+#bottomcloud{
+    position: absolute;
+    left:300px;
+    bottom:300px;
+    
+}
+
+#myPhoto{
+    width: 30%;
+    height:40%;
+    border-radius: 50%; 
+}
+#pro{
+    text-decoration: underline;
+    
+}
+
+#topcloud{
+    position: absolute;
+    right: 250px;
+    top:30px;
+}
+
+
